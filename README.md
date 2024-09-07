@@ -1,7 +1,7 @@
-- ##Hi👋 I'm Ali Hanif##
+- ## Hi👋 I'm Ali Hanif ##
 - ### **Backend developer with .NET** ###
-- ###**Computer engineering student majoring in software**###
-- ###**I love software development and debugging and that's what I enjoy**###
+- ### **Computer engineering student majoring in software** ###
+- ### **I love software development and debugging and that's what I enjoy** ###
 - 
 - 
 -
