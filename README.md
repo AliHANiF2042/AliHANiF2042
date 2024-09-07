@@ -1,4 +1,8 @@
-- 👋 Hi, I’m AliHanif
-- I’m interested in programming and game.
-- 💻 I’m currently learning BackEnd with ASP.NETCore framework.
+- ##Hi👋 I'm Ali Hanif##
+- ### **Backend developer with .NET** ###
+- ###**Computer engineering student majoring in software**###
+- ###**I love software development and debugging and that's what I enjoy**###
+- 
+- 
+-
 -
