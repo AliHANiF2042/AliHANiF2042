@@ -16,8 +16,7 @@ Hi👋 I'm Ali Hanif<br>Backend developer with .NET<br>Computer engineering stud
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AliHANiF2042&limit=5&theme=cobalt2&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AliHANiF2042&icon=2&color=0)](https://visitcount.itsvg.in)
