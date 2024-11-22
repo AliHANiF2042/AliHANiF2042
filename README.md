@@ -12,8 +12,7 @@ Hi👋 I'm Ali Hanif<br>Backend developer with .NET<br>Computer engineering stud
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AliHANiF2042&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHANiF2042&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AliHANiF2042&theme=cobalt2&no-frame=true&no-bg=true&margin-w=4)
+
 
 
 
