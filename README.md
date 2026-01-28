@@ -6,11 +6,9 @@
 
 ---
 
-## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-@alihanif1400-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alihanif1400)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Hanif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+## 🌐 Connect with Me: 
 [![GitHub](https://img.shields.io/badge/GitHub-AliHANiF2042-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliHANiF2042)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alihanief2042@gmail.com)
 
 ---
 
