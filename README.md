@@ -1,8 +1,15 @@
-# 💫 About Me:
-👋 Hi, I'm **Ali Hanif**  
-💻 **Backend Developer** specializing in **.NET**  
-🎓 **Computer Engineering** student, Software major  
-❤️ Passionate about **software development** and **debugging** – turning complex problems into elegant solutions is what drives me.
+# 💫 About 
+👋 Hi, I'm Ali Hanif
+
+💻 Backend Web Developer specializing in ASP.NET Core and the .NET ecosystem.
+
+🎓 M.Sc. Student in Computer Engineering (Software).
+
+🚀 Passionate about building secure, scalable, and maintainable web applications with clean, efficient code.
+
+🌱 Currently expanding my expertise in Web APIs, Docker, Clean Architecture, and Cloud Technologies.
+
+✨ I enjoy solving complex problems and turning ideas into reliable software solutions.
 
 ---
 
