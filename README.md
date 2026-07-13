@@ -1,96 +1,102 @@
-# 💫 About 
-👋 Hi, I'm Ali Hanif
+# Hi, I'm Ali Hanif 👋
 
-💻 Backend Web Developer specializing in ASP.NET Core and the .NET ecosystem.
+### Backend Web Developer | ASP.NET Core | .NET
 
-🎓 M.Sc. Student in Computer Engineering (Software).
+I'm a Backend Web Developer passionate about building secure, scalable, and maintainable web applications using the .NET ecosystem.
 
-🚀 Passionate about building secure, scalable, and maintainable web applications with clean, efficient code.
-
-🌱 Currently expanding my expertise in Web APIs, Docker, Clean Architecture, and Cloud Technologies.
-
-✨ I enjoy solving complex problems and turning ideas into reliable software solutions.
+Currently pursuing an M.Sc. in Software Engineering while continuously improving my backend development skills through real-world projects.
 
 ---
 
-## 🌐 Connect with Me: 
-[![GitHub](https://img.shields.io/badge/GitHub-AliHANiF2042-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliHANiF2042)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alihanief2042@gmail.com)
+## 🛠 Tech Stack
+
+**Languages**
+
+- C#
+- SQL
+
+**Backend**
+
+- ASP.NET Core
+- Entity Framework Core
+- REST API
+- Razor Pages
+
+**Database**
+
+- SQL Server
+
+**Tools**
+
+- Git
+- GitHub
+- Visual Studio
 
 ---
 
-## 🛠️ Tech Stack:
+## 🚀 Featured Projects
 
-### 💠 Programming Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### 🛒 SparkCoreShop
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Gaming peripherals e-commerce platform built with ASP.NET Core.
 
-### ⚙️ Frameworks & Platforms
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+**Features**
 
-### 🗄️ Databases
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+- Authentication
+- Product Management
+- Shopping Cart
+- Blog
+- Responsive Design
+- SQL Server
+- Entity Framework Core
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 Reporting System
+
+Web application for generating and managing reports.
+
+---
+
+### 🏢 Company Website
+
+Business website with management panel developed using ASP.NET Core.
+
+---
+
+## 📚 Currently Learning
+
+- ASP.NET Core Web API
+- Docker
+- Clean Architecture
+- Microservices
+- Azure
+
+---
+
+## 🎯 Career Goal
+
+Building high-quality backend systems and contributing to international software projects.
+
+---
+
+## 📫 Connect with Me
+
+GitHub:
+github.com/AliHANiF2042
+
+Email:
+alihanief2042@gmail.com
+
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=AliHANiF2042&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AliHANiF2042&theme=vue-dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHANiF2042&theme=vue-dark&hide_border=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=AliHANiF2042&show_icons=true&theme=transparent"/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHANiF2042&layout=compact&theme=transparent"/>
 
----
-
-## 🎯 Currently Learning
-- **Microservices Architecture** with .NET
-- **Entity Framework Core** advanced patterns
-- **RESTful API** design best practices
-- **Docker** containerization
-- **Clean Architecture** principles
-
-## 🌱 Future Interests
-- **Cloud Computing** (Azure/AWS)
-- **Message Queues** (RabbitMQ, Azure Service Bus)
-- **NoSQL Databases** (MongoDB, Redis)
-- **Unit Testing** & **TDD**
-
----
-
-## 📈 Recent Activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AliHANiF2042&theme=onedark&no-frame=true&row=1&column=6)
-
-### 📌 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=AliHANiF2042&color=blueviolet&style=flat)
-
-### 🎯 "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
-</div>
-
----
-
-<div align="center">
-Made with ❤️ using Markdown & GitHub  
-✨ *Turning ideas into functional reality* ✨
 </div>
