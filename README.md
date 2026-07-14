@@ -36,21 +36,7 @@ Currently pursuing an M.Sc. in Software Engineering while continuously improving
 
 ## 🚀 Featured Projects
 
-### 🛒 SparkCoreShop
 
-Gaming peripherals e-commerce platform built with ASP.NET Core.
-
-**Features**
-
-- Authentication
-- Product Management
-- Shopping Cart
-- Blog
-- Responsive Design
-- SQL Server
-- Entity Framework Core
-
----
 
 ### 📊 Reporting System
 
