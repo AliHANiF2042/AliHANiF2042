@@ -1,117 +1,173 @@
+<div align="center">
+
 # 👋 Hi, I'm Ali Hanif
 
-### Backend .NET Developer | ASP.NET Core | C# | SQL Server
+### Backend .NET Developer
 
-Building scalable, secure, and maintainable backend applications with the Microsoft .NET ecosystem.
+Designing scalable, secure and maintainable backend systems with the Microsoft .NET ecosystem.
 
-Passionate about software architecture, clean code, and creating production-ready web applications.
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=AliHANiF2042&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://img.shields.io/github/followers/AliHANiF2042?style=flat&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/AliHANiF2042?style=flat&logo=github"/>
+
+</p>
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+# 💼 Professional Summary
 
-### Backend
+Backend .NET Developer with experience designing and developing modern web applications using ASP.NET Core and SQL Server.
+
+I enjoy building scalable, secure, and maintainable backend systems by applying clean architecture principles and industry best practices.
+
+My primary focus is writing clean, readable code, optimizing application performance, and creating software that is easy to maintain and extend.
+
+Currently expanding my expertise in Web APIs, Docker, Cloud Technologies, and Distributed Systems while continuously improving my software engineering skills through real-world projects.
+
+---
+
+# 🚀 Tech Stack
+
+### 👨‍💻 Languages
+
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+### ⚙️ Backend
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge)
 
-### Database
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge)
+
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+
+![Razor Pages](https://img.shields.io/badge/Razor_Pages-5C2D91?style=for-the-badge)
+
+---
+
+### 🗄 Database
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Architecture
+---
 
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID_Principles-0A66C2?style=for-the-badge)
+### 🏛 Software Engineering
+
+![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge)
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1F2937?style=for-the-badge)
+
+![SOLID](https://img.shields.io/badge/SOLID-2563EB?style=for-the-badge)
+
 ![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
 
-# 💼 Featured Projects
+### 🛠 Tools
 
-### 🛒 E-Commerce Platform
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-Production-ready online store developed with ASP.NET Core, Entity Framework Core and SQL Server.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Highlights**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+# 🌟 Featured Projects
+
+## 🛒 E-Commerce Platform
+
+A modern e-commerce application built with ASP.NET Core following clean coding principles.
+
+### Features
 
 - Authentication & Authorization
 - Product Management
+- Category Management
 - Shopping Cart
-- Order Management
-- Responsive UI
-- Clean Code
+- Order Processing
+- User Management
+- Responsive Design
+- Admin Dashboard
+- SQL Server Database
+- Entity Framework Core
 
 ---
 
-### 🏢 Company Website
+## 🏢 Company Website
 
-Business website with administration panel and content management.
-
----
-
-### 📊 Reporting System
-
-Web application for report generation and data management.
+Corporate website with management panel developed using ASP.NET Core.
 
 ---
 
-# 🌱 Current Focus
+## 📊 Reporting System
+
+Report generation and management system for business data.
+
+---
+
+# 🎯 Current Focus
 
 - ASP.NET Core Web API
+- Authentication & Authorization
 - Docker
 - Clean Architecture
 - Microservices
 - Azure
 - System Design
+- Software Architecture
 
 ---
 
-# 🎯 Career Goal
-
-Designing scalable backend systems and contributing to high-impact software products worldwide.
-
----
-
-# 📫 Contact
-
-📧 Email: alihanief2042@gmail.com
-
-💻 GitHub:
-https://github.com/AliHANiF2042
-
----
-
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AliHANiF2042&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AliHANiF2042&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHANiF2042&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHANiF2042&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=AliHANiF2042&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AliHANiF2042&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliHANiF2042&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliHANiF2042&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-⭐ Always learning, always building.
+# 📫 Let's Connect
+
+📧 Email
+
+**alihanief2042@gmail.com**
+
+💻 GitHub
+
+**https://github.com/AliHANiF2042**
+
+---
+
+<div align="center">
+
+### 💡 "Great software is built through clean architecture, continuous learning, and attention to detail."
+
+⭐ Thanks for visiting my profile!
+
+</div>
